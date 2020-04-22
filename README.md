@@ -1,2 +1,2 @@
-# Current
- Current - A New Messaging Platform
+# Concurrent
+ Concurrent - A New Messaging Platform
