@@ -25,11 +25,17 @@
     "express": "^4.17.1",
     "express-flash": "0.0.2",
     "express-session": "^1.17.1",
+    "jest": "^25.4.0",
+    "node": "^14.0.0",
     "passport": "^0.4.1",
     "passport-local": "^1.0.0",
     "pg": "^8.0.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.3"
-  }
+  },
+   "engines": {
+     "node": "^0.12"
+   }
+
 }
